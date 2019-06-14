@@ -1,0 +1,20 @@
+C:\Users\asus\Desktop\BG\BG\bin\Debug\BG.dll
+C:\Users\asus\Desktop\BG\BG\bin\Debug\BG.pdb
+C:\Users\asus\Desktop\BG\BG\bin\Debug\MakePower.DataPlat.Essential.Entities.dll
+C:\Users\asus\Desktop\BG\BG\bin\Debug\MakePower.DataPlat.Essential.Entities.pdb
+C:\Users\asus\Desktop\BG\BG\obj\Debug\BG.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\BG\BG\obj\Debug\BG.Form1.resources
+C:\Users\asus\Desktop\BG\BG\obj\Debug\BG.Form2.resources
+C:\Users\asus\Desktop\BG\BG\obj\Debug\BG.Form3.resources
+C:\Users\asus\Desktop\BG\BG\obj\Debug\BG.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\BG\BG\obj\Debug\BG.dll
+C:\Users\asus\Desktop\BG\BG\obj\Debug\BG.pdb
+C:\Users\asus\Documents\15211010144邹明海\备份\MySql接入 (1)\MySql接入 (1)\数据平台调试文件\BG.dll
+C:\Users\asus\Documents\15211010144邹明海\备份\MySql接入 (1)\MySql接入 (1)\数据平台调试文件\BG.pdb
+C:\Users\asus\Documents\15211010144邹明海\备份\BG\BG\obj\Debug\BG.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\15211010144邹明海\备份\BG\BG\obj\Debug\BG.Form1.resources
+C:\Users\asus\Documents\15211010144邹明海\备份\BG\BG\obj\Debug\BG.Form2.resources
+C:\Users\asus\Documents\15211010144邹明海\备份\BG\BG\obj\Debug\BG.Form3.resources
+C:\Users\asus\Documents\15211010144邹明海\备份\BG\BG\obj\Debug\BG.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\15211010144邹明海\备份\BG\BG\obj\Debug\BG.dll
+C:\Users\asus\Documents\15211010144邹明海\备份\BG\BG\obj\Debug\BG.pdb
